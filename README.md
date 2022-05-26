@@ -1,1 +1,1 @@
-# Core-genome-proj
+# core-genome-proj
