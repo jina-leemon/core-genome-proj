@@ -1,4 +1,5 @@
 # Core Genome Identification code
+[![DOI](https://zenodo.org/badge/496494729.svg)](https://zenodo.org/badge/latestdoi/496494729)
 
 This code can be used to identify a set of core genes conserved in high percentages across a specified list of phages (or other organisms).
 For analysis, you need: <br />
